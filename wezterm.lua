@@ -13,7 +13,7 @@ config.enable_tab_bar = false
 -- config.window_decorations = "RESIZE"
 
 config.window_background_opacity = 0.8
-config.win32_system_backdrop = "Acrylic"
+-- config.win32_system_backdrop = "Acrylic"
 config.macos_window_background_blur = 20
 
 -- and finally, return the configuration to wezterm
